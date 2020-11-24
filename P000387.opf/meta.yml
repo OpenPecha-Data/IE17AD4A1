@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG16609
   title: སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱི་སྐྱེས་རབས་བརྒྱ་པ།
-  volume: ''
+  volume:
+    0163df03090e4382861e2421d0c47429:
+      image_group_id: I1KG16644
+      title: Volume 1 of sangs rgyas bcos ldan 'das kyi skyes rabs brgya pa/
+      volume_number: 1
+      total_pages: 752
   author: ''
+ebook_metadata:
+  title: སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱི་སྐྱེས་རབས་བརྒྱ་པ།
+  author: ''
+  sku: P000387
+  cover: cover.jpg
+  layers:
+  - pagination
