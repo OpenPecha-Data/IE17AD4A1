@@ -1,5 +1,7 @@
 id: P000387
 initial_creation_type: ocr
+created_at: 17/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG16609
   title: སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱི་སྐྱེས་རབས་བརྒྱ་པ།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 752
       base_file: v001.txt
-ebook_metadata:
-  title: སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱི་སྐྱེས་རབས་བརྒྱ་པ།
-  author: ''
-  sku: P000387
-  cover: cover.jpg
-  layers:
-  - pagination
